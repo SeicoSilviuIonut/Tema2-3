@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minge", "Minge.vcxproj", "{DEBED57F-C785-455C-B99F-467AA707EE6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBED57F-C785-455C-B99F-467AA707EE6A}.Debug|x64.ActiveCfg = Debug|x64
+		{DEBED57F-C785-455C-B99F-467AA707EE6A}.Debug|x64.Build.0 = Debug|x64
+		{DEBED57F-C785-455C-B99F-467AA707EE6A}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEBED57F-C785-455C-B99F-467AA707EE6A}.Debug|x86.Build.0 = Debug|Win32
+		{DEBED57F-C785-455C-B99F-467AA707EE6A}.Release|x64.ActiveCfg = Release|x64
+		{DEBED57F-C785-455C-B99F-467AA707EE6A}.Release|x64.Build.0 = Release|x64
+		{DEBED57F-C785-455C-B99F-467AA707EE6A}.Release|x86.ActiveCfg = Release|Win32
+		{DEBED57F-C785-455C-B99F-467AA707EE6A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1981238-C2ED-4827-9BDA-A013A34C5A25}
+	EndGlobalSection
+EndGlobal

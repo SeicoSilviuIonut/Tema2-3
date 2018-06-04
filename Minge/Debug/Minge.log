@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\sseico\source\repos\minge\main.cpp(46): warning C4715: '<lambda_53b7d873e58540a3645d21ae407fd3f7>::operator()': not all control paths return a value
+  Minge.vcxproj -> C:\Users\sseico\source\repos\Minge\Debug\Minge.exe
